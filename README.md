@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋 I'm Salim</h1>
+<h2 align="center">Hi 👋 I'm Salim Yılmaz</h2>
 
-###
+<div align="center">
+  <img height="200" src="https://i.ibb.co/bFqq2Mz/LINKEDIN-Banner.png"  />
+</div>
 
-<h3 align="center">I am a Full Stack Software Developer from Türkiye</h3>
-<br>
+<h4 align="center">I am a Full Stack Software Developer from Türkiye</h4>
 
-###
-
-<h2 align="left">Languages and Tools:</h2>
-
-###
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo"  />
@@ -41,22 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="43" alt="trello logo"  />
 </div>
 
-###
+<h3 align="left">Connect with me:</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalimYilmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true&order=2&custom_title=Used%20Languages" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/salimy%C4%B1lmaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1B264F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
 </div>
-
-###
